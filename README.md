@@ -12,7 +12,9 @@ API RESTful com o objetivo de gerenciar um acervo de livros, permitindo operaç�
 
 - **Java** ☕  
 - **Spring Boot** <img src="https://spring.io/img/spring.svg" width="18" alt="Spring Boot Logo"> (Security, JPA, Web)  
-- **Docker** 🐳  
+- **Docker** 🐳
+- **Actuator** 📊 (Monitoramento e métricas da aplicação)  
+- **Slf4j** 📜 (Logging estruturado)  
 - **Lombok** 🛠️  
 - **MapStruct** 🔄  
 - **PostgreSQL** 🐘  
